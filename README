@@ -1,0 +1,9 @@
+This is a simple url validator tool.
+
+To comile type the following 
+
+$javac SimpleHttpRequest.java
+
+To run 
+
+$java SimpleHttpRequest urllist.txt
